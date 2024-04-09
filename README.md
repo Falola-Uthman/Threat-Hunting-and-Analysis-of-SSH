@@ -1,4 +1,4 @@
-# Threat-Hunting-and-Analysis-of-SSH
+# Threat Hunting and Analysis of SSH
 
 ## Objective
 
