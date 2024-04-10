@@ -27,7 +27,7 @@ The primary aim of the Threat Hunting and Analysis of SSH project was to scrutin
 - Trend Analysis: Analyzed data for trends that could point to automated attack patterns.
 - Security Recommendations: Formulated and proposed security measures based on insights gained from data analysis.
 
-## Visual Representation of the SOC Automation Lab Workflow
+## Visual Representation of the Threat Hunting and Analysis of SSH Workflow
 
 ![Panda1](https://github.com/Falola-Uthman/Threat-Hunting-and-Analysis-of-SSH/assets/50869547/1a0bf84a-5fc0-485a-b07a-7267eb25a758)
 Ref 1: Detailed analysis of SSH logs, focusing on failed login attempts.
